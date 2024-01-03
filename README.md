@@ -1,1 +1,1 @@
-Very insecure cipher for my school project. Sorry for hoogie code.
+Very insecure cipher for my school project. Sorry for hodgie code.
